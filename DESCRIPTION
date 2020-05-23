@@ -1,0 +1,10 @@
+Package: statajoin
+Type: Package
+Title: statajoin
+Version: 0.0.1
+Author: James Thomas
+Maintainer: James Thomas <jamesethomas@gmx.com>
+Description: Uses full_join() from dplyr package to mimic the standard merge function in Stata.
+License: 
+Encoding: UTF-8
+LazyData: true
